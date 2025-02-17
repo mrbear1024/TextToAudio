@@ -1,3 +1,5 @@
+This is a tool to convert markdown to speech using OpenAI Whisper API.
+
 # virtualenv
 
 ```bash
